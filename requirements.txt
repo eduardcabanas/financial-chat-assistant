@@ -1,8 +1,0 @@
-fastapi
-uvicorn[standard]
-openai
-langchain
-langchain-community
-psycopg2-binary
-jinja2
-python-dotenv
